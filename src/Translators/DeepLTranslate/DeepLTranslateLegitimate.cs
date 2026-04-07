@@ -17,7 +17,7 @@ namespace DeepLTranslate
    {
       private static readonly HashSet<string> SupportedLanguages = new HashSet<string>
       {
-         "auto", "ar", "bg", "cs", "da", "de", "el", "en", "en-gb", "en-us","es", "et", "fi", "fr", "hu", "id", "it", "ja", "ko", "lt", "lv", "nb", "nl", "pl", "pt", "pt-br", "pt-pt", "ro", "ru", "sk", "sl", "sv", "tr", "uk", "zh", "zh-hans", "zh-hant"
+         "auto", "ar", "bg", "cs", "da", "de", "el", "en", "en-gb", "en-us","es", "et", "fi", "fr", "hu", "id", "it", "ja", "ko", "lt", "lv", "nb", "nl", "pl", "pt", "pt-br", "pt-pt", "ro", "ru", "sk", "sl", "sv", "tr", "uk", "vi", "zh", "zh-hans", "zh-hant"
       };
 
       public override string Id => "DeepLTranslateLegitimate";
